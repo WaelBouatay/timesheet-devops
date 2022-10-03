@@ -20,12 +20,9 @@ public class User implements Serializable {
 	
 	// commentaitre 3ALINFO5 
 	
-	// commentaire 1 
-	// Commentaire 2 
+
 	
-	// Commaentaire 4
-	// hhhh
-	// modif 5
+
 	private static final long serialVersionUID = 1L;
 
 	@Id
